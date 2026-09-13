@@ -22,7 +22,7 @@ A key focus is the environmental justice dimension: communities in the South Bro
 | # | Source | Dataset | Key Required |
 |---|---|---|---|
 | 1 | NYC Open Data | Air Quality & Health Impacts `c3uy-2p5r` | No |
-| 2 | NYC Open Data | PM2.5 Attributable Asthma ED Visits `ebe7-6eah` | No |
+| 2 | NYC Open Data | PM2.5 Attributable Asthma & cardiovascular ED Visits `ebe7-6eah` | No |
 | 3 | EPA AirNow | Real-time AQI by zip code | Yes (free) |
 | 4 | PurpleAir | Community sensor network — fills Brooklyn & Manhattan gaps | Yes (free) |
 
