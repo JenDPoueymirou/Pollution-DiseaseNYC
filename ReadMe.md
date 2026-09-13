@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project investigates the relationship between air pollution and disease outcomes across New York City's 5 boroughs from 2005 to 2024. Using data from four live APIs and nearly 20 years of historical records, the analysis examines how long-term exposure to PM2.5, NO2, and ozone — particularly in neighborhoods near highways, bridges, tunnels, and truck corridors — correlates with higher rates of:
+This project investigates the relationship between air pollution and negative health outcomes across New York City's 5 boroughs from 2005 to 2024. Using data from four live APIs and nearly 20 years of historical records, the analysis examines how long-term exposure to PM2.5, NO2, and ozone — particularly in neighborhoods near highways, bridges, tunnels, and truck corridors — correlates with higher rates of:
 
 - Asthma emergency department visits
 - Cardiovascular hospitalizations
