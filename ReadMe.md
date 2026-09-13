@@ -179,9 +179,8 @@ This project documents a pattern that disproportionately affects lower-income co
 
 ---
 
-## Authors
+## Author
 
 **Jennifer Poueymirou** — Data Science Cohort
-**Darnel Castor** 
 The Knowledge House 
 June 2026
